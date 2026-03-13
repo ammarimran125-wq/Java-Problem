@@ -9,6 +9,9 @@ public class conditionals {
 //        relation operators
         if(age!=18){
             System.out.println("Yes boy you can drive!");
+        }else {
+            System.out.println("Okay Bro!");
         }
+
     }
 }
